@@ -1,6 +1,6 @@
 ## Hello!
 
-My name is Marifer! I am currently a student at the University of Texas at Austin completing a B.S. in Psychology and a certificate in applied statistical modeling. I am interested in data science and data visualization! 
+My name is Marifer! I am currently a 4th year undergraduate student at the University of Texas at Austin completing a B.S. in Psychology and a certificate in applied statistical modeling. I am interested in data science and data visualization! 
 
 
 ### My Github Stats!
