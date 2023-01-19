@@ -4,7 +4,7 @@ My name is Marifer! I am currently a 4th year undergraduate student at the Unive
 
 
 ### My Github Stats!
-![Marifer Martinez-Garcia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrfrmtz&theme=vue_dark&show_icons=true)
+![Marifer Martinez-Garcia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrfrmtz&theme=vue-dark&show_icons=true)
 
 
 ### Learning!
